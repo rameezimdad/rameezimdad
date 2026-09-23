@@ -1,12 +1,13 @@
-<!-- Mohammad Rameez Imdad (Rameez Scripts) — Founder, Business Automation & Custom Software | Google Apps Script | PHP 8 / MySQL | React 18 | Payment Gateway Integration | N8N Automation | YouTube Educator -->
+<!-- Mohammad Rameez Imdad (Rameez Scripts) — Founder | ERP Systems | CRM Systems | N8N Automation Workflows | AI Automation | Custom Business Software | Google Apps Script | PHP 8 / MySQL | React 18 -->
 
 <div align="center">
 
 # Mohammad Rameez Imdad
 
-**Founder, [Rameez Scripts](https://rameezscripts.com) · Business Automation & Custom Software**
+**Founder, [Rameez Scripts](https://rameezscripts.com)**
+**ERP · CRM · N8N Automation · AI Automation**
 
-<a href="https://rameezscripts.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=0074D9&center=true&vCenter=true&width=620&lines=Custom+ERP%2C+POS+and+CRM+systems;Google+Apps+Script+at+production+scale;PHP+8+%2B+MySQL+business+platforms;N8N+workflows+and+AI+integration;Payment+gateway+integration+end+to+end" alt="Custom ERP, POS and CRM systems · Google Apps Script at production scale · PHP 8 + MySQL business platforms · N8N workflows and AI integration · Payment gateway integration end to end" /></a>
+<a href="https://rameezscripts.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=0074D9&center=true&vCenter=true&width=640&lines=ERP+systems+for+growing+businesses;CRM+and+sales+pipeline+platforms;N8N+automation+workflows;AI+automation+and+AI+agents;Professional+business+software%2C+end+to+end" alt="ERP systems for growing businesses · CRM and sales pipeline platforms · N8N automation workflows · AI automation and AI agents · Professional business software, end to end" /></a>
 
 [![Website](https://img.shields.io/badge/rameezscripts.com-001f3f?style=flat-square&logo=googlechrome&logoColor=white)](https://rameezscripts.com)
 [![YouTube](https://img.shields.io/badge/YouTube-30K%2B_subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@rameezimdad)
@@ -15,47 +16,132 @@
 
 </div>
 
-I build the software that businesses run on: ERP, POS, CRM, payment and automation systems that replace spreadsheets, paper and manual follow-ups. I work with founders and operations teams worldwide, from the first requirements call to deployment, training and support. Every build becomes a free tutorial for the developer community.
+I build **professional business systems**: ERPs that run operations, CRMs that manage every customer, and N8N and AI automations that do the repetitive work in between. I take each system from the first requirements call through database design, build, deployment, training and support, for businesses worldwide.
 
 <div align="center">
 
 | **400+** | **50+** | **4.9 / 5** | **30K+** | **348+** |
 |:---:|:---:|:---:|:---:|:---:|
-| projects shipped<br>since 2022 | countries<br>served | from 187+<br>client reviews | YouTube<br>subscribers | free<br>tutorials |
+| systems & projects<br>shipped since 2022 | countries<br>served | from 187+<br>client reviews | YouTube<br>subscribers | free<br>tutorials |
 
 </div>
 
 ---
 
-## What I do
+## What I build
 
-| | |
-|---|---|
-| **Business systems** | ERP, POS, CRM, inventory, HR and school platforms with role-based access control, audit trails and real-time reporting |
-| **Workflow automation** | Google Sheets and Apps Script apps, N8N pipelines and WhatsApp messaging that take repetitive work off people's desks |
-| **Payment integration** | Hosted-checkout and direct-API gateways (PayFast, Safepay, Bank Alfalah): signing, callbacks, refunds, reconciliation, multi-currency |
-| **Dashboards & reporting** | React 18 admin panels with KPI cards, charts, filterable tables and CSV / PDF export |
-| **AI integration** | LLM-powered features, AI-assisted search and self-hosted, OpenAI-compatible model gateways |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ERP Systems
+
+One system to run the whole business, not ten disconnected spreadsheets.
+
+- Inventory, stock ledger and multi-warehouse
+- Purchasing, sales, invoicing and POS
+- Accounting, ledgers, expenses and cash book
+- HR, attendance and payroll
+- Multi-branch, with role-based access for every department
+- Audit logs, dashboards and CSV / PDF reports
+
+</td>
+<td width="50%" valign="top">
+
+### CRM Systems
+
+Every lead, client and conversation in one place, with nothing forgotten.
+
+- Lead capture from web forms, WhatsApp and imports
+- Sales pipelines with stage tracking
+- Quotations, follow-ups and reminders
+- Support tickets with SLA timers
+- Call-center and client portals
+- WhatsApp and email communication history
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### N8N Automation Workflows
+
+Processes that run on their own, 24/7, and log every run.
+
+- Website forms to Google Sheets, CRM or database
+- Lead routing and instant WhatsApp or email alerts
+- Booking and appointment agents
+- Scheduled reports and daily summaries
+- API integrations between the tools you already use
+- Webhooks, retries and error notifications
+
+</td>
+<td width="50%" valign="top">
+
+### AI Automation
+
+AI that does real work inside your system, not a demo chatbot.
+
+- AI agents built on N8N workflows
+- AI assistants that answer questions from your business data
+- Automated quotations and requirement intake
+- AI-assisted search and product matching
+- Document and message processing
+- Self-hosted LLMs for private data (Ollama)
+
+</td>
+</tr>
+</table>
+
+Also: **payment gateway integration** (PayFast, Safepay, Bank Alfalah), **Google Sheets web apps** with Apps Script back ends, and **admin dashboards** in React 18.
+
+---
+
+## How an automated business fits together
+
+```mermaid
+flowchart LR
+    A["Website / WhatsApp<br/>lead"] --> B["N8N<br/>workflow"]
+    B --> C["CRM<br/>pipeline"]
+    B --> D["AI agent<br/>qualify + reply"]
+    C --> E["ERP<br/>quote, invoice, stock"]
+    D --> C
+    E --> F["Dashboards<br/>& reports"]
+    B --> G["Alerts<br/>email / WhatsApp"]
+```
+
+I build every piece of this chain, so the systems are designed to talk to each other from day one.
+
+---
+
+## Industries I've built for
+
+<p>
+<img src="https://img.shields.io/badge/Healthcare_&_Clinics-001f3f?style=flat-square" alt="Healthcare and clinics" />
+<img src="https://img.shields.io/badge/Pharmacy-001f3f?style=flat-square" alt="Pharmacy" />
+<img src="https://img.shields.io/badge/Education_&_Schools-001f3f?style=flat-square" alt="Education and schools" />
+<img src="https://img.shields.io/badge/Hotels_&_Hospitality-001f3f?style=flat-square" alt="Hotels and hospitality" />
+<img src="https://img.shields.io/badge/Restaurants_&_Retail_POS-001f3f?style=flat-square" alt="Restaurants and retail POS" />
+<img src="https://img.shields.io/badge/Manufacturing-001f3f?style=flat-square" alt="Manufacturing" />
+<img src="https://img.shields.io/badge/Construction-001f3f?style=flat-square" alt="Construction" />
+<img src="https://img.shields.io/badge/Trading_&_Supply_Chain-001f3f?style=flat-square" alt="Trading and supply chain" />
+<img src="https://img.shields.io/badge/Logistics_&_Transport-001f3f?style=flat-square" alt="Logistics and transport" />
+<img src="https://img.shields.io/badge/Internet_Service_Providers-001f3f?style=flat-square" alt="Internet service providers" />
+<img src="https://img.shields.io/badge/Insurance-001f3f?style=flat-square" alt="Insurance" />
+<img src="https://img.shields.io/badge/Finance_&_Lending-001f3f?style=flat-square" alt="Finance and lending" />
+<img src="https://img.shields.io/badge/E--commerce_&_Amazon_Sellers-001f3f?style=flat-square" alt="E-commerce and Amazon sellers" />
+<img src="https://img.shields.io/badge/Non--profits_&_Churches-001f3f?style=flat-square" alt="Non-profits and churches" />
+</p>
 
 ---
 
 ## How I work
 
-1. **Schema first.** The data model is designed and reviewed before any screen is built: strict types, foreign keys, indexes.
-2. **Secure by default.** Prepared statements everywhere, role checks on the server rather than the browser, CSRF protection, rate-limited logins.
-3. **Fast by design.** Batched reads and writes, indexed lookups, no queries inside loops. It stays fast once real data arrives.
-4. **Ship in reviewable phases.** Clients see working software early and often, not one big reveal at the end.
-5. **Documented inside the app.** Every system ships with an About page covering its roles and permissions matrix and every business formula it uses.
-
----
-
-## Engineering depth
-
-**Google Apps Script at production scale.** Twenty-module ERPs with Google Sheets as the database: JSON row storage, `LockService` transactions, batched `getValues` / `setValues` I/O and permission-driven routing. Sheets stops being a spreadsheet and becomes a back end.
-
-**Payments where the documentation is thin.** Integrations built from raw merchant specifications: signature and checksum layers, verified callbacks, idempotent transaction stores, fee models and automated invoicing.
-
-**Automation that removes the busywork.** N8N workflows, WhatsApp gateways and scheduled jobs that move leads, invoices and alerts between systems without anyone copying and pasting.
+1. **Requirements first.** Real pain points, roles and workflows are mapped before anything is designed.
+2. **Schema first.** The data model is designed and reviewed before any screen: strict types, foreign keys, indexes.
+3. **Secure by default.** Prepared statements, server-side role checks, CSRF protection, rate-limited logins, full audit trail.
+4. **Fast with real data.** Batched reads and writes, indexed lookups, no queries inside loops.
+5. **Delivered in phases.** Clients see working software early and often, then get training and support after launch.
 
 ---
 
@@ -68,13 +154,14 @@ I build the software that businesses run on: ERP, POS, CRM, payment and automati
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N" />
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
-  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N" />
   <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
   <img src="https://img.shields.io/badge/Excel_&_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel and VBA" />
   <br>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
@@ -84,14 +171,12 @@ I build the software that businesses run on: ERP, POS, CRM, payment and automati
 
 ## Teaching
 
-I build complete business applications on camera, from an empty sheet to a deployed system, with nothing skipped.
+I build complete business systems on camera, from an empty sheet to a deployed app, with nothing skipped.
 
 | Channel | Focus |
 |---|---|
-| **[@rameezimdad](https://www.youtube.com/@rameezimdad)** | Google Sheets, Apps Script and N8N automation · 30K+ subscribers |
-| **[@RameezScriptsDEV](https://www.youtube.com/@RameezScriptsDEV)** | PHP 8 and MySQL web applications |
-
-Popular series: Apps Script ERP builds · PHP + MySQL dashboards · payment gateway integration · AI-assisted development (Vibe Coding).
+| **[@rameezimdad](https://www.youtube.com/@rameezimdad)** | Google Sheets, Apps Script, N8N and AI automation · 30K+ subscribers |
+| **[@RameezScriptsDEV](https://www.youtube.com/@RameezScriptsDEV)** | PHP 8 and MySQL ERP, CRM and business apps |
 
 ---
 
@@ -110,11 +195,12 @@ Popular series: Apps Script ERP builds · PHP + MySQL dashboards · payment gate
 
 ### Let's Work Together
 
-Open to custom builds worldwide · Remote · Lahore, PKT (UTC+5)
+Need an ERP, a CRM or an automation that removes hours of manual work?
+Open to projects worldwide · Remote · Lahore, PKT (UTC+5)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Start_a_project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.rameezscripts.com)
 [![Email](https://img.shields.io/badge/Email-Contact%40rameezscripts.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Contact@rameezscripts.com)
 
 </div>
 
-<!-- SEO: Mohammad Rameez Imdad, Rameez Scripts, business automation, custom software development, Google Apps Script developer, Google Sheets web app, PHP MySQL developer, React dashboard developer, ERP developer, POS system developer, CRM developer, payment gateway integration, PayFast integration, Safepay integration, Bank Alfalah gateway, N8N automation, N8N Google Sheets, WhatsApp API developer, AI integration, self-hosted LLM gateway, full-stack developer Lahore Pakistan, remote developer, YouTube coding tutorials -->
+<!-- SEO: Mohammad Rameez Imdad, Rameez Scripts, ERP developer, custom ERP system, CRM developer, custom CRM, N8N automation expert, N8N workflow developer, N8N AI agent, AI automation, AI agents for business, business process automation, workflow automation, Google Apps Script developer, Google Sheets automation, PHP MySQL ERP, POS system developer, inventory management system, HR payroll system, payment gateway integration, WhatsApp automation, self-hosted LLM, custom business software, full-stack developer Lahore Pakistan, remote developer -->
