@@ -97,23 +97,6 @@ Also: **payment gateway integration** (PayFast, Safepay, Bank Alfalah), **Google
 
 ---
 
-## How an automated business fits together
-
-```mermaid
-flowchart LR
-    A["Website / WhatsApp<br/>lead"] --> B["N8N<br/>workflow"]
-    B --> C["CRM<br/>pipeline"]
-    B --> D["AI agent<br/>qualify + reply"]
-    C --> E["ERP<br/>quote, invoice, stock"]
-    D --> C
-    E --> F["Dashboards<br/>& reports"]
-    B --> G["Alerts<br/>email / WhatsApp"]
-```
-
-I build every piece of this chain, so the systems are designed to talk to each other from day one.
-
----
-
 ## Industries I've built for
 
 <p>
