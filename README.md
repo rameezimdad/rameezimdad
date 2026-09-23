@@ -110,22 +110,6 @@ I'm the founder of **[Rameez Scripts](https://rameezscripts.com)**, a business a
 
 ---
 
-## Featured Work
-
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| **[F30-N8N-Contact-Form](https://github.com/rameezimdad/F30-N8N-Contact-Form)** | Website contact form that saves every submission to Google Sheets through an N8N Webhook and sends a Gmail alert, with no backend | N8N · Google Sheets · HTML |
-| **[whatsapp-otp-login](https://github.com/rameezimdad/whatsapp-otp-login)** | Self-hosted WhatsApp OTP login, signup and password reset, with no SMS provider and no per-message cost | Apps Script · Sheets · OpenWA |
-| **[baileys-api](https://github.com/rameezimdad/baileys-api)** | REST wrapper over Baileys for multi-session WhatsApp messaging and webhooks | Node.js · Baileys |
-| **[vps-local-ai-gateway](https://github.com/rameezimdad/vps-local-ai-gateway)** | One-command VPS installer for a private LLM endpoint, with an OpenAI-compatible API, key dashboard and auto SSL | Node.js · Ollama · Nginx |
-| **[Rameez-AI-Shorts-Editor](https://github.com/rameezimdad/Rameez-AI-Shorts-Editor)** | Self-hosted AI editor for YouTube Shorts, TikTok and Reels: karaoke captions, b-roll, zooms and voice cleanup in one ffmpeg pass | Python · FastAPI · ffmpeg |
-| **[Rameez-Taste-Skill](https://github.com/rameezimdad/Rameez-Taste-Skill)** | Anti-slop frontend design skill that stops AI coding assistants from shipping generic UI | Design system · LLM tooling |
-| **[Rameez-DESIGN-MD-FILES](https://github.com/rameezimdad/Rameez-DESIGN-MD-FILES)** | Curated `DESIGN.md` design-system files for consistent AI-generated interfaces | CSS · Design tokens |
-
-> Full open-source tutorial projects (ERPs, POS systems, result portals and dashboards) live on my project account: **[@rameezscripts](https://github.com/rameezscripts)**
-
----
-
 ## Teaching
 
 I build complete business applications on camera, from an empty sheet to a deployed system, with nothing skipped.
