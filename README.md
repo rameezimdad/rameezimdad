@@ -2,111 +2,83 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/212206433?v=4" alt="Mohammad Rameez Imdad" width="130" />
-
 # Mohammad Rameez Imdad
 
-**Founder of Rameez Scripts · Business Automation & Custom Software · YouTube Educator**
+**Founder, [Rameez Scripts](https://rameezscripts.com) · Business Automation & Custom Software**
 
-*Automation that ships.*
+<a href="https://rameezscripts.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=0074D9&center=true&vCenter=true&width=620&lines=Custom+ERP%2C+POS+and+CRM+systems;Google+Apps+Script+at+production+scale;PHP+8+%2B+MySQL+business+platforms;N8N+workflows+and+AI+integration;Payment+gateway+integration+end+to+end" alt="Custom ERP, POS and CRM systems · Google Apps Script at production scale · PHP 8 + MySQL business platforms · N8N workflows and AI integration · Payment gateway integration end to end" /></a>
 
-I turn spreadsheets and manual workflows into **production business systems**:
-ERP, POS, CRM and payment platforms that real companies run every day.
-Then I teach developers how to build the same thing, step by step.
+[![Website](https://img.shields.io/badge/rameezscripts.com-001f3f?style=flat-square&logo=googlechrome&logoColor=white)](https://rameezscripts.com)
+[![YouTube](https://img.shields.io/badge/YouTube-30K%2B_subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@rameezimdad)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://whatsapp.rameezscripts.com)
+[![Email](https://img.shields.io/badge/Email-Contact%40rameezscripts.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Contact@rameezscripts.com)
 
-<br>
+</div>
 
-[![YouTube](https://img.shields.io/badge/YouTube-30K%2B_Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rameezimdad)
-[![Projects](https://img.shields.io/badge/Projects-400%2B_Shipped-001f3f?style=for-the-badge)](https://rameezscripts.com)
-[![Countries](https://img.shields.io/badge/Clients-50%2B_Countries-0074D9?style=for-the-badge)](https://rameezscripts.com)
-[![Rating](https://img.shields.io/badge/Rating-4.9%2F5_(187%2B_reviews)-F5B400?style=for-the-badge&logoColor=black)](https://rameezscripts.com)
+I build the software that businesses run on: ERP, POS, CRM, payment and automation systems that replace spreadsheets, paper and manual follow-ups. I work with founders and operations teams worldwide, from the first requirements call to deployment, training and support. Every build becomes a free tutorial for the developer community.
 
-[![Website](https://img.shields.io/badge/Hire_Me-rameezscripts.com-0074D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rameezscripts.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_with_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.rameezscripts.com)
-[![Email](https://img.shields.io/badge/Email-Contact%40rameezscripts.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Contact@rameezscripts.com)
+<div align="center">
+
+| **400+** | **50+** | **4.9 / 5** | **30K+** | **348+** |
+|:---:|:---:|:---:|:---:|:---:|
+| projects shipped<br>since 2022 | countries<br>served | from 187+<br>client reviews | YouTube<br>subscribers | free<br>tutorials |
 
 </div>
 
 ---
 
-## About Me
-
-I'm the founder of **[Rameez Scripts](https://rameezscripts.com)**, a business automation and custom software studio based in **Lahore, Pakistan**. Since 2022 I've shipped **400+ projects** for clients in **50+ countries**, rated **4.9/5 from 187+ reviews**. Every project is built in-house, with no outsourcing.
-
-- **Headquarters:** Lahore, Pakistan · Delivery office: Hyderabad, India · North America office: Windsor, Canada
-- **Registered:** PSEB-registered software company (Pakistan) · MSME / Udyam-registered start-up (Government of India)
-- **Support:** 6 months of free WhatsApp support on every custom project
-
----
-
-## What I Build
+## What I do
 
 | | |
 |---|---|
-| **Business Systems** | ERP, POS, CRM, inventory, HRM and school-management platforms with multi-role RBAC, audit logs and real-time reporting |
-| **Google Sheets Automation** | Google Sheets turned into real multi-user web apps with Apps Script back ends and no hosting bill |
-| **Payment Integration** | Hosted-checkout and direct-API gateways (PayFast, Safepay, Bank Alfalah), with checksum signing, callbacks, refunds and reconciliation |
-| **Admin Dashboards** | React 18 panels with Tabulator tables, Chart.js, searchable dropdowns, CSV/PDF export and skeleton loading |
-| **Automation & AI** | N8N workflows, WhatsApp API gateways, self-hosted LLM infrastructure and AI-assisted systems |
-| **Database Design** | Schema-first design, with strict types, foreign keys and indexes, done before any UI is built |
+| **Business systems** | ERP, POS, CRM, inventory, HR and school platforms with role-based access control, audit trails and real-time reporting |
+| **Workflow automation** | Google Sheets and Apps Script apps, N8N pipelines and WhatsApp messaging that take repetitive work off people's desks |
+| **Payment integration** | Hosted-checkout and direct-API gateways (PayFast, Safepay, Bank Alfalah): signing, callbacks, refunds, reconciliation, multi-currency |
+| **Dashboards & reporting** | React 18 admin panels with KPI cards, charts, filterable tables and CSV / PDF export |
+| **AI integration** | LLM-powered features, AI-assisted search and self-hosted, OpenAI-compatible model gateways |
 
 ---
 
-## Specializations
+## How I work
 
-**Google Apps Script at production scale.** Not toy scripts: 20+ module ERPs with Sheets as the database, JSON row storage, `LockService` transactions, batched `getValues`/`setValues` I/O and role-driven routing. Sheets stops being a spreadsheet and starts being a back end.
-
-**Payment gateways for the Pakistani market.** PayFast, Safepay and Bank Alfalah integrations end to end: signature and checksum layers, callback verification, idempotent transaction stores, multi-currency handling and invoice automation. The documentation is thin, so most of this was built from the raw merchant specs.
-
-**Teaching the whole build.** Every system I ship becomes a tutorial. **348+ free tutorials** so far, across two channels.
+1. **Schema first.** The data model is designed and reviewed before any screen is built: strict types, foreign keys, indexes.
+2. **Secure by default.** Prepared statements everywhere, role checks on the server rather than the browser, CSRF protection, rate-limited logins.
+3. **Fast by design.** Batched reads and writes, indexed lookups, no queries inside loops. It stays fast once real data arrives.
+4. **Ship in reviewable phases.** Clients see working software early and often, not one big reveal at the end.
+5. **Documented inside the app.** Every system ships with an About page covering its roles and permissions matrix and every business formula it uses.
 
 ---
 
-## Tech Stack
+## Engineering depth
 
-**Back end**
+**Google Apps Script at production scale.** Twenty-module ERPs with Google Sheets as the database: JSON row storage, `LockService` transactions, batched `getValues` / `setValues` I/O and permission-driven routing. Sheets stops being a spreadsheet and becomes a back end.
 
-![PHP](https://img.shields.io/badge/PHP_8+-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-0F9D58?style=for-the-badge&logo=google&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Payments where the documentation is thin.** Integrations built from raw merchant specifications: signature and checksum layers, verified callbacks, idempotent transaction stores, fee models and automated invoicing.
 
-**Databases**
+**Automation that removes the busywork.** N8N workflows, WhatsApp gateways and scheduled jobs that move leads, invoices and alerts between systems without anyone copying and pasting.
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+---
 
-**Front end**
+## Tech stack
 
-![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysql,js,ts,react,html,css,tailwind,bootstrap&perline=9" alt="PHP, MySQL, JavaScript, TypeScript, React, HTML, CSS, Tailwind, Bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,postgres,mongodb,sqlite&perline=9" alt="Python, Django, FastAPI, Node.js, PostgreSQL, MongoDB, SQLite" /><br>
+  <img src="https://skillicons.dev/icons?i=gcp,linux,nginx,git,github,netlify,vscode&perline=9" alt="Google Cloud, Linux, Nginx, Git, GitHub, Netlify, VS Code" />
+</p>
 
-**Automation & AI**
-
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Excel VBA](https://img.shields.io/badge/Excel_&_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**Infrastructure**
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N" />
+  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/Excel_&_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel and VBA" />
+  <br>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
 
 ---
 
@@ -116,20 +88,21 @@ I build complete business applications on camera, from an empty sheet to a deplo
 
 | Channel | Focus |
 |---|---|
-| **[@rameezimdad](https://www.youtube.com/@rameezimdad)** | Google Sheets, Apps Script and N8N automation, **30K+ subscribers** |
+| **[@rameezimdad](https://www.youtube.com/@rameezimdad)** | Google Sheets, Apps Script and N8N automation · 30K+ subscribers |
 | **[@RameezScriptsDEV](https://www.youtube.com/@RameezScriptsDEV)** | PHP 8 and MySQL web applications |
 
-Most-covered series: Google Apps Script ERP builds · PHP 8 + MySQL dashboards · payment gateway integration · AI-assisted development (Vibe Coding).
+Popular series: Apps Script ERP builds · PHP + MySQL dashboards · payment gateway integration · AI-assisted development (Vibe Coding).
 
 ---
 
-## Working With Me
+## Background
 
-I take on custom builds through **[rameezscripts.com](https://rameezscripts.com)**, usually full business systems rather than small fixes. A typical engagement runs:
-
-**Scope the real problem** → **design the schema first** → **build in reviewable phases** → **deploy, train, support**
-
-Database design comes before any UI work. That one habit is why these systems hold up once real users start using them.
+| | |
+|---|---|
+| **Education** | BS Computer Science, Minhaj University Lahore |
+| **Company** | Rameez Scripts: PSEB-registered software company (Pakistan) · MSME / Udyam-registered start-up (Government of India) |
+| **Offices** | Lahore, Pakistan (HQ) · Hyderabad, India · Windsor, Canada |
+| **Delivery** | Built in-house, no outsourcing · 6 months of free WhatsApp support on every custom project |
 
 ---
 
@@ -137,14 +110,11 @@ Database design comes before any UI work. That one habit is why these systems ho
 
 ### Let's Work Together
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_with_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.rameezscripts.com)
+Open to custom builds worldwide · Remote · Lahore, PKT (UTC+5)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Start_a_project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.rameezscripts.com)
 [![Email](https://img.shields.io/badge/Email-Contact%40rameezscripts.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Contact@rameezscripts.com)
-[![Website](https://img.shields.io/badge/Web-rameezscripts.com-0074D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rameezscripts.com)
-
-<br>
-
-<sub>Lahore, Pakistan · Available for custom ERP, POS, CRM, automation and payment-integration projects</sub>
 
 </div>
 
-<!-- SEO: Mohammad Rameez Imdad, Rameez Scripts, business automation, custom software, Google Apps Script developer, PHP MySQL developer, React dashboard developer, payment gateway integration Pakistan, PayFast integration, Safepay integration, Bank Alfalah gateway, Google Sheets web app, Apps Script ERP, POS system developer, CRM developer, WhatsApp API developer, N8N automation, N8N Google Sheets, self-hosted AI gateway, full-stack developer Lahore Pakistan, YouTube coding tutorials -->
+<!-- SEO: Mohammad Rameez Imdad, Rameez Scripts, business automation, custom software development, Google Apps Script developer, Google Sheets web app, PHP MySQL developer, React dashboard developer, ERP developer, POS system developer, CRM developer, payment gateway integration, PayFast integration, Safepay integration, Bank Alfalah gateway, N8N automation, N8N Google Sheets, WhatsApp API developer, AI integration, self-hosted LLM gateway, full-stack developer Lahore Pakistan, remote developer, YouTube coding tutorials -->
