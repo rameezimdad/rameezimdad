@@ -11,7 +11,7 @@
 
 [![Website](https://img.shields.io/badge/rameezscripts.com-001f3f?style=flat-square&logo=googlechrome&logoColor=white)](https://rameezscripts.com)
 [![YouTube](https://img.shields.io/badge/YouTube-30K%2B_subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@rameezimdad)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://whatsapp.rameezscripts.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923435347417)
 [![Email](https://img.shields.io/badge/Email-Contact%40rameezscripts.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Contact@rameezscripts.com)
 
 </div>
@@ -181,7 +181,7 @@ I build complete business systems on camera, from an empty sheet to a deployed a
 Need an ERP, a CRM or an automation that removes hours of manual work?
 Open to projects worldwide · Remote · Lahore, PKT (UTC+5)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Start_a_project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.rameezscripts.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Start_a_project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923435347417)
 [![Email](https://img.shields.io/badge/Email-Contact%40rameezscripts.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Contact@rameezscripts.com)
 
 </div>
