@@ -4,7 +4,7 @@
 
 **Founder of [Rameez Scripts](https://rameezscripts.com)**
 
-**Custom ERP, CRM and POS Systems · Google Apps Script · PHP and MySQL · N8N and AI Automation**
+**Custom ERP, CRM and POS Systems · Google Apps Script · PHP and MySQL · N8N and AI Automation · MCP Servers**
 
 [![Rameez Scripts website](https://img.shields.io/badge/rameezscripts.com-001f3f?style=flat-square&logo=googlechrome&logoColor=white)](https://rameezscripts.com)
 [![YouTube channel with 30K+ subscribers](https://img.shields.io/badge/YouTube-30K%2B_subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@rameezimdad)
@@ -15,7 +15,7 @@
 
 </div>
 
-I am a software developer from Lahore, Pakistan and the founder of **Rameez Scripts**. I build **custom ERP systems, CRM systems, POS and inventory software** for businesses, and the **N8N workflows, AI automation and WhatsApp automation** that remove the repetitive work around them.
+I am a software developer from Lahore, Pakistan and the founder of **Rameez Scripts**. I build **custom ERP systems, CRM systems, POS and inventory software** for businesses, and the **N8N workflows, AI automation, MCP servers and WhatsApp automation** that remove the repetitive work around them.
 
 I work in two stacks: **Google Apps Script with Google Sheets** for web apps that need no server, and **PHP 8 with MySQL** for larger multi-user systems. I take each system from the first requirements call through database design, build, deployment, training and support, for clients worldwide.
 
@@ -122,9 +122,39 @@ AI that does real work inside your system, not a demo chatbot.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### MCP Servers
+
+Let an AI assistant such as Claude work inside your own business system.
+
+- Custom MCP servers (Model Context Protocol) for a website, database or API
+- Tools that let an AI assistant read sales, customers, orders and reports
+- Safe write actions: preview first, confirm, then apply
+- WhatsApp, email and content tasks an AI assistant can run for you
+- Works with Claude and other MCP clients
+- Built in PHP or Node.js, on your own server
+
+</td>
+<td width="50%" valign="top">
+
+### Windows Software and Chrome Extensions
+
+Tools people install and use every day: [software](https://rameezscripts.com/software.php) and [extensions](https://rameezscripts.com/chrome-extensions.php).
+
+- Windows desktop apps with installers and automatic updates
+- Chrome and Edge browser extensions
+- WhatsApp bulk sender and AI auto-reply tools
+- Download manager and other utility apps
+- Two-way sync with Google Sheets
+- Licence keys and activation for paid software
+
+</td>
+</tr>
 </table>
 
-Also: **Windows desktop software** ([software](https://rameezscripts.com/software.php)), **Chrome extensions** ([extensions](https://rameezscripts.com/chrome-extensions.php)), **WhatsApp automation** and **admin dashboards** in React 18.
+Also: **WhatsApp automation** and **admin dashboards** in React 18.
 
 ---
 
@@ -173,7 +203,7 @@ Not every business needs a custom build. [rameezscripts.com](https://rameezscrip
 
 ## Tech stack
 
-**Core:** Google Apps Script · Google Sheets · PHP 8 · MySQL · JavaScript · React 18 · Node.js · Electron · N8N
+**Core:** Google Apps Script · Google Sheets · PHP 8 · MySQL · JavaScript · React 18 · Node.js · Electron · N8N · MCP (Model Context Protocol)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql,js,ts,react,html,css,nodejs,electron&perline=9" alt="PHP, MySQL, JavaScript, TypeScript, React, HTML, CSS, Node.js, Electron" /><br>
@@ -227,7 +257,11 @@ I am a software developer from Lahore, Pakistan and the founder of Rameez Script
 
 ### What does Rameez Scripts build?
 
-Custom ERP systems, CRM systems, POS and inventory software, HR and payroll systems, and school, hospital and hotel management systems, plus N8N workflows, AI automation and WhatsApp automation. Most systems are built in Google Apps Script with Google Sheets or in PHP 8 with MySQL.
+Custom ERP systems, CRM systems, POS and inventory software, HR and payroll systems, and school, hospital and hotel management systems, plus N8N workflows, AI automation, MCP servers and WhatsApp automation. Most systems are built in Google Apps Script with Google Sheets or in PHP 8 with MySQL.
+
+### What is an MCP server, and can you build one for my business?
+
+An MCP (Model Context Protocol) server lets an AI assistant such as Claude use your own business system: it can read your data and run tasks through tools you approve. Yes, I build custom MCP servers for websites, databases and APIs.
 
 ### Can I buy a ready-made system with source code?
 
