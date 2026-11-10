@@ -1,28 +1,29 @@
-<!-- Mohammad Rameez Imdad (Rameez Scripts) — Founder | ERP Systems | CRM Systems | N8N Automation Workflows | AI Automation | Custom Business Software | Google Apps Script | PHP 8 / MySQL | React 18 -->
-
 <div align="center">
 
 # Mohammad Rameez Imdad
 
-**Founder, [Rameez Scripts](https://rameezscripts.com)**
-**ERP · CRM · N8N Automation · AI Automation**
+**Founder of [Rameez Scripts](https://rameezscripts.com)**
 
-<a href="https://rameezscripts.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=0074D9&center=true&vCenter=true&width=640&lines=ERP+systems+for+growing+businesses;CRM+and+sales+pipeline+platforms;N8N+automation+workflows;AI+automation+and+AI+agents;Professional+business+software%2C+end+to+end" alt="ERP systems for growing businesses · CRM and sales pipeline platforms · N8N automation workflows · AI automation and AI agents · Professional business software, end to end" /></a>
+**Custom ERP, CRM and POS Systems · Google Apps Script · PHP and MySQL · N8N and AI Automation**
 
-[![Website](https://img.shields.io/badge/rameezscripts.com-001f3f?style=flat-square&logo=googlechrome&logoColor=white)](https://rameezscripts.com)
-[![YouTube](https://img.shields.io/badge/YouTube-30K%2B_subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@rameezimdad)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923435347417)
-[![Email](https://img.shields.io/badge/Email-Contact%40rameezscripts.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Contact@rameezscripts.com)
+[![Rameez Scripts website](https://img.shields.io/badge/rameezscripts.com-001f3f?style=flat-square&logo=googlechrome&logoColor=white)](https://rameezscripts.com)
+[![YouTube channel with 30K+ subscribers](https://img.shields.io/badge/YouTube-30K%2B_subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@rameezimdad)
+[![Instagram rameezscripts](https://img.shields.io/badge/Instagram-rameezscripts-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rameezscripts/)
+[![TikTok aiwithrameez](https://img.shields.io/badge/TikTok-aiwithrameez-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@aiwithrameez)
+[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923435347417)
+[![Email Contact@rameezscripts.com](https://img.shields.io/badge/Email-Contact%40rameezscripts.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Contact@rameezscripts.com)
 
 </div>
 
-I build **professional business systems**: ERPs that run operations, CRMs that manage every customer, and N8N and AI automations that do the repetitive work in between. I take each system from the first requirements call through database design, build, deployment, training and support, for businesses worldwide.
+I am a software developer from Lahore, Pakistan and the founder of **Rameez Scripts**. I build **custom ERP systems, CRM systems, POS and inventory software** for businesses, and the **N8N workflows, AI automation and WhatsApp automation** that remove the repetitive work around them.
+
+I work in two stacks: **Google Apps Script with Google Sheets** for web apps that need no server, and **PHP 8 with MySQL** for larger multi-user systems. I take each system from the first requirements call through database design, build, deployment, training and support, for clients worldwide.
 
 <div align="center">
 
-| **400+** | **50+** | **4.9 / 5** | **30K+** | **348+** |
+| **400+** | **380+** | **50+** | **4.9 / 5** | **30K+** |
 |:---:|:---:|:---:|:---:|:---:|
-| systems & projects<br>shipped since 2022 | countries<br>served | from 187+<br>client reviews | YouTube<br>subscribers | free<br>tutorials |
+| projects delivered<br>since 2022 | ready-made projects<br>with source code | countries<br>served | from 187+<br>client reviews | YouTube<br>subscribers |
 
 </div>
 
@@ -64,6 +65,36 @@ Every lead, client and conversation in one place, with nothing forgotten.
 <tr>
 <td width="50%" valign="top">
 
+### Google Apps Script and Google Sheets Web Apps
+
+Business apps that run on a Google account, with no server to manage.
+
+- Web apps with login, roles and dashboards on Google Sheets data
+- POS, inventory, invoicing, school and clinic systems
+- Google Sheets automation: reports, emails, PDFs and reminders
+- Gmail, Google Drive, Calendar and Forms integration
+- Import, export, print and PDF on every list
+- Mobile-first screens that work on a phone
+
+</td>
+<td width="50%" valign="top">
+
+### PHP and MySQL Web Applications
+
+Multi-user systems for larger data and stricter control.
+
+- PHP 8 and MySQL on a designed, indexed database schema
+- Role-based access, audit logs and secure sessions
+- Payment gateway integration (PayFast, Safepay, Bank Alfalah)
+- Multi-branch and multi-vendor setups
+- REST APIs, scheduled jobs, email and WhatsApp notifications
+- Admin dashboards with charts, filters and exports
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### N8N Automation Workflows
 
 Processes that run on their own, 24/7, and log every run.
@@ -93,27 +124,39 @@ AI that does real work inside your system, not a demo chatbot.
 </tr>
 </table>
 
-Also: **payment gateway integration** (PayFast, Safepay, Bank Alfalah), **Google Sheets web apps** with Apps Script back ends, and **admin dashboards** in React 18.
+Also: **Windows desktop software** ([software](https://rameezscripts.com/software.php)), **Chrome extensions** ([extensions](https://rameezscripts.com/chrome-extensions.php)), **WhatsApp automation** and **admin dashboards** in React 18.
 
 ---
 
-## Industries I've built for
+## Ready-made systems with source code
+
+Not every business needs a custom build. [rameezscripts.com](https://rameezscripts.com) lists **380+ ready-made projects with full source code**: POS, inventory, school, hospital, hotel, HR and payroll, CRM, invoicing and more.
+
+| Catalog | Stack |
+|---|---|
+| **[Google Apps Script projects](https://rameezscripts.com)** | Google Sheets as the database, Apps Script back end, React front end |
+| **[PHP and MySQL projects](https://rameezscripts.com/php_projects.php)** | PHP 8, MySQL, role-based access, ready for shared hosting |
+| **[Custom development](https://rameezscripts.com/services.php)** | A system designed around your own workflow, from requirements to support |
+
+---
+
+## Industries I have built for
 
 <p>
-<img src="https://img.shields.io/badge/Healthcare_&_Clinics-001f3f?style=flat-square" alt="Healthcare and clinics" />
-<img src="https://img.shields.io/badge/Pharmacy-001f3f?style=flat-square" alt="Pharmacy" />
-<img src="https://img.shields.io/badge/Education_&_Schools-001f3f?style=flat-square" alt="Education and schools" />
-<img src="https://img.shields.io/badge/Hotels_&_Hospitality-001f3f?style=flat-square" alt="Hotels and hospitality" />
-<img src="https://img.shields.io/badge/Restaurants_&_Retail_POS-001f3f?style=flat-square" alt="Restaurants and retail POS" />
-<img src="https://img.shields.io/badge/Manufacturing-001f3f?style=flat-square" alt="Manufacturing" />
-<img src="https://img.shields.io/badge/Construction-001f3f?style=flat-square" alt="Construction" />
-<img src="https://img.shields.io/badge/Trading_&_Supply_Chain-001f3f?style=flat-square" alt="Trading and supply chain" />
-<img src="https://img.shields.io/badge/Logistics_&_Transport-001f3f?style=flat-square" alt="Logistics and transport" />
-<img src="https://img.shields.io/badge/Internet_Service_Providers-001f3f?style=flat-square" alt="Internet service providers" />
-<img src="https://img.shields.io/badge/Insurance-001f3f?style=flat-square" alt="Insurance" />
-<img src="https://img.shields.io/badge/Finance_&_Lending-001f3f?style=flat-square" alt="Finance and lending" />
-<img src="https://img.shields.io/badge/E--commerce_&_Amazon_Sellers-001f3f?style=flat-square" alt="E-commerce and Amazon sellers" />
-<img src="https://img.shields.io/badge/Non--profits_&_Churches-001f3f?style=flat-square" alt="Non-profits and churches" />
+<img src="https://img.shields.io/badge/Healthcare_&_Clinics-001f3f?style=flat-square" alt="Healthcare and clinic management systems" />
+<img src="https://img.shields.io/badge/Pharmacy-001f3f?style=flat-square" alt="Pharmacy management systems" />
+<img src="https://img.shields.io/badge/Education_&_Schools-001f3f?style=flat-square" alt="School management systems" />
+<img src="https://img.shields.io/badge/Hotels_&_Hospitality-001f3f?style=flat-square" alt="Hotel management systems" />
+<img src="https://img.shields.io/badge/Restaurants_&_Retail_POS-001f3f?style=flat-square" alt="Restaurant and retail POS systems" />
+<img src="https://img.shields.io/badge/Manufacturing-001f3f?style=flat-square" alt="Manufacturing ERP" />
+<img src="https://img.shields.io/badge/Construction-001f3f?style=flat-square" alt="Construction ERP" />
+<img src="https://img.shields.io/badge/Trading_&_Supply_Chain-001f3f?style=flat-square" alt="Trading and supply chain software" />
+<img src="https://img.shields.io/badge/Logistics_&_Transport-001f3f?style=flat-square" alt="Logistics and transport software" />
+<img src="https://img.shields.io/badge/Internet_Service_Providers-001f3f?style=flat-square" alt="ISP billing software" />
+<img src="https://img.shields.io/badge/Insurance-001f3f?style=flat-square" alt="Insurance management systems" />
+<img src="https://img.shields.io/badge/Finance_&_Lending-001f3f?style=flat-square" alt="Finance and lending software" />
+<img src="https://img.shields.io/badge/E--commerce_&_Amazon_Sellers-001f3f?style=flat-square" alt="E-commerce and Amazon seller tools" />
+<img src="https://img.shields.io/badge/Non--profits_&_Churches-001f3f?style=flat-square" alt="Non-profit and church management software" />
 </p>
 
 ---
@@ -130,9 +173,11 @@ Also: **payment gateway integration** (PayFast, Safepay, Bank Alfalah), **Google
 
 ## Tech stack
 
+**Core:** Google Apps Script · Google Sheets · PHP 8 · MySQL · JavaScript · React 18 · Node.js · Electron · N8N
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,js,ts,react,html,css,tailwind,bootstrap&perline=9" alt="PHP, MySQL, JavaScript, TypeScript, React, HTML, CSS, Tailwind, Bootstrap" /><br>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,postgres,mongodb,sqlite&perline=9" alt="Python, Django, FastAPI, Node.js, PostgreSQL, MongoDB, SQLite" /><br>
+  <img src="https://skillicons.dev/icons?i=php,mysql,js,ts,react,html,css,nodejs,electron&perline=9" alt="PHP, MySQL, JavaScript, TypeScript, React, HTML, CSS, Node.js, Electron" /><br>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mongodb,sqlite,tailwind,bootstrap&perline=9" alt="Python, Django, FastAPI, PostgreSQL, MongoDB, SQLite, Tailwind, Bootstrap" /><br>
   <img src="https://skillicons.dev/icons?i=gcp,linux,nginx,git,github,netlify,vscode&perline=9" alt="Google Cloud, Linux, Nginx, Git, GitHub, Netlify, VS Code" />
 </p>
 
@@ -152,14 +197,14 @@ Also: **payment gateway integration** (PayFast, Safepay, Bank Alfalah), **Google
 
 ---
 
-## Teaching
+## YouTube channels
 
 I build complete business systems on camera, from an empty sheet to a deployed app, with nothing skipped.
 
-| Channel | Focus |
+| Channel | What it teaches |
 |---|---|
-| **[@rameezimdad](https://www.youtube.com/@rameezimdad)** | Google Sheets, Apps Script, N8N and AI automation · 30K+ subscribers |
-| **[@RameezScriptsDEV](https://www.youtube.com/@RameezScriptsDEV)** | PHP 8 and MySQL ERP, CRM and business apps |
+| **[@rameezimdad](https://www.youtube.com/@rameezimdad)** | Google Sheets, Google Apps Script, N8N and AI automation · 30K+ subscribers · 390+ videos |
+| **[@RameezScripts](https://www.youtube.com/@RameezScripts)** | PHP 8 and MySQL: ERP, CRM, POS and business web apps |
 
 ---
 
@@ -174,16 +219,46 @@ I build complete business systems on camera, from an empty sheet to a deployed a
 
 ---
 
+## Frequently asked questions
+
+### Who is Mohammad Rameez Imdad?
+
+I am a software developer from Lahore, Pakistan and the founder of Rameez Scripts. I hold a BS in Computer Science from Minhaj University Lahore and have delivered 400+ projects since 2022 for clients in 50+ countries.
+
+### What does Rameez Scripts build?
+
+Custom ERP systems, CRM systems, POS and inventory software, HR and payroll systems, and school, hospital and hotel management systems, plus N8N workflows, AI automation and WhatsApp automation. Most systems are built in Google Apps Script with Google Sheets or in PHP 8 with MySQL.
+
+### Can I buy a ready-made system with source code?
+
+Yes. [rameezscripts.com](https://rameezscripts.com) lists 380+ ready-made projects with full source code, in Google Apps Script and in PHP and MySQL.
+
+### Google Apps Script or PHP and MySQL: which one fits my business?
+
+Google Apps Script with Google Sheets suits a small team that wants a web app with no server to manage. PHP and MySQL suits larger data, many users working at the same time and public-facing websites. I recommend one after the requirements call.
+
+### Do you work with clients outside Pakistan?
+
+Yes. Projects are delivered remotely to clients in 50+ countries, with offices in Lahore (Pakistan), Hyderabad (India) and Windsor (Canada).
+
+### Do you give support after delivery?
+
+Yes. Every custom project includes 6 months of free WhatsApp support.
+
+### How do I start a project?
+
+Send your requirements on [WhatsApp](https://wa.me/923435347417) or by [email](mailto:Contact@rameezscripts.com). The first step is a requirements call.
+
+---
+
 <div align="center">
 
 ### Let's Work Together
 
-Need an ERP, a CRM or an automation that removes hours of manual work?
+Need an ERP, a CRM, a POS or an automation that removes hours of manual work?
 Open to projects worldwide · Remote · Lahore, PKT (UTC+5)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Start_a_project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923435347417)
-[![Email](https://img.shields.io/badge/Email-Contact%40rameezscripts.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Contact@rameezscripts.com)
+[![Start a project on WhatsApp](https://img.shields.io/badge/WhatsApp-Start_a_project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923435347417)
+[![Email Contact@rameezscripts.com](https://img.shields.io/badge/Email-Contact%40rameezscripts.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Contact@rameezscripts.com)
 
 </div>
-
-<!-- SEO: Mohammad Rameez Imdad, Rameez Scripts, ERP developer, custom ERP system, CRM developer, custom CRM, N8N automation expert, N8N workflow developer, N8N AI agent, AI automation, AI agents for business, business process automation, workflow automation, Google Apps Script developer, Google Sheets automation, PHP MySQL ERP, POS system developer, inventory management system, HR payroll system, payment gateway integration, WhatsApp automation, self-hosted LLM, custom business software, full-stack developer Lahore Pakistan, remote developer -->
